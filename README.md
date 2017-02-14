@@ -7,7 +7,7 @@ Calculate the difference between two base64 encoded binary data via 2 HTTP endpo
 You will need to clone this project first.
 
 ```
-git clone ...
+git clone git@github.com:valterhenrique/differ.git
 ```
 
 Access the project's folder, and run this project locally: 
